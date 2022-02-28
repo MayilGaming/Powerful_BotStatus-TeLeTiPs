@@ -31,7 +31,7 @@
 
 ### Heroku
 
-[🎥 Tutorial Video: ](https://www.youtube.com/watch?v=23mAMuP0tVw)    
+[🎥 Tutorial Video: ](https://youtu.be/sVQbdh__7Vw)    
     
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MRK-YT/Powerful_BotStatus-TeLeTiPs)
     
