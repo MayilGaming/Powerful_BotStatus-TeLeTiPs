@@ -33,7 +33,7 @@
 
 [🎥 Tutorial Video: ](https://youtu.be/sVQbdh__7Vw)    
     
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MRK-YT/Powerful_BotStatus-TeLeTiPs)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MayilGaming/Powerful_BotStatus-TeLeTiPs)
     
 ## Credits
 - [TeLe TiPs](https://github.com/teletips)
