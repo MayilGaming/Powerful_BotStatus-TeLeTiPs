@@ -60,4 +60,4 @@ async def main_teletips():
                         
 app.run(main_teletips())
 
-#Copyright ©️ 2021 TeLe TiPs. All Rights Reserved
+#Copyright ©️ 2022 MG Bots. All Rights Reserved
